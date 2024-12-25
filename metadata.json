@@ -1,0 +1,8 @@
+{
+  "name": "Shortcuts Overview",
+  "description": "Shortcuts Overview for currently focused app",
+  "uuid": "shortcutsoverview@muhamed1ism.com",
+  "shell-version": [
+    "47"
+  ]
+}

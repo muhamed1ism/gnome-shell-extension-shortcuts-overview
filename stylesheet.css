@@ -1,0 +1,7 @@
+/* Add your custom extension styling here */
+.focused-app-label {
+  color: white;
+  padding: 5px;
+  border-radius: 1px;
+  font-size: 13px;
+}
